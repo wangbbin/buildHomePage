@@ -2,7 +2,7 @@ title: Buildhomepage
 description: create  personal  page!
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-tactile
 
 gems:
   - jekyll-mentions
